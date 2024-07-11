@@ -179,3 +179,4 @@ async function proxy(urlObj, reqInit) {
     })
 }
 
+return env.ASSETS.fetch(request);
